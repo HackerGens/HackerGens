@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @HackerGens
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Android and IOS development.
+- 📫 Reach me at sajjadahmed393@gmail.com
 
 <!---
-HackerGens/HackerGens is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at my profile.
+https://github.com/HackerGens
 --->
