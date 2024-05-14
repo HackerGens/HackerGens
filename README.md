@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajjad
-- 👀 I’m Mobile developer for IOS and Android.
-- 🌱 I’m currently Working on NFTs Projects.
+- 👀 I’m Mobile developer.
+- 🌱 I’m currently Working on NFTs & ML Projects.
 - 💞️ I’m looking to collaborate on Blockchain projects.
 - 📫 You can reach me by sajjadahmed393@gmail.com
 
